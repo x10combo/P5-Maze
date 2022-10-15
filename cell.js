@@ -62,7 +62,7 @@ function Cell(i, j) {
   
       if (this.visited) {
         noStroke();
-        fill(255, 0, 255, 100);
+        fill(50, 500, 0, 200);
         rect(x, y, w, w);
       }
     }
